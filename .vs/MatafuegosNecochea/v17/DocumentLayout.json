@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\matafuegosnecochea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\matafuegosnecochea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\WeatherForecast.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\WeatherForecast.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:21:18.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Program.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Program.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Program.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:20:43.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatafuegosNecochea.http",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\MatafuegosNecochea.http",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\MatafuegosNecochea.http",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\MatafuegosNecochea.http",
+              "RelativeToolTip": "MatafuegosNecochea\\MatafuegosNecochea.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-24T20:20:33.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:20:25.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

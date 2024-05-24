@@ -1,0 +1,6 @@
+@MatafuegosNecochea_HostAddress = http://localhost:5106
+
+GET {{MatafuegosNecochea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
