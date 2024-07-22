@@ -3,20 +3,80 @@
   "WorkspaceRootPath": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\matafuegosnecochea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\matafuegosnecochea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\fireextinguisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\fireextinguisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\ivascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\ivascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\chargescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\chargescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\capacitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\capacitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\firee\\fireextinguisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\firee\\fireextinguisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\firee\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\firee\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\firee\\capacity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\firee\\capacity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\firee\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\firee\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\clients\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\clients\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\clients\\iva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\clients\\iva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\migrations\\20240718135835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\migrations\\20240718135835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|d:\\repos\\matafuegos\\server\\matafuegosnecochea\\matafuegosnecochea\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7AF87-EB0C-4B45-88F0-59A8DFE08E92}|MatafuegosNecochea\\MatafuegosNecochea.csproj|solutionrelative:matafuegosnecochea\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +86,253 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MatafuegosNecochea\\WeatherForecast.cs",
-              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\WeatherForecast.cs",
-              "RelativeToolTip": "MatafuegosNecochea\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T20:21:18.451Z",
+              "WhenOpened": "2024-07-22T14:35:03.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Program.cs",
-              "RelativeDocumentMoniker": "MatafuegosNecochea\\Program.cs",
-              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Program.cs",
-              "RelativeToolTip": "MatafuegosNecochea\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "DocumentIndex": 1,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\AddressesController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\AddressesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T20:20:43.794Z",
+              "WhenOpened": "2024-07-22T14:34:39.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IvasController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\IvasController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\IvasController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\IvasController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\IvasController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:33:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CapacitiesController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\CapacitiesController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\CapacitiesController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\CapacitiesController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\CapacitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:32:41.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChargesController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\ChargesController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\ChargesController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\ChargesController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\ChargesController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:31:34.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MatafuegosNecochea.http",
-              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\MatafuegosNecochea.http",
-              "RelativeDocumentMoniker": "MatafuegosNecochea\\MatafuegosNecochea.http",
-              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\MatafuegosNecochea.http",
-              "RelativeToolTip": "MatafuegosNecochea\\MatafuegosNecochea.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-24T20:20:33.198Z"
+              "Title": "FireExtinguishersController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\FireExtinguishersController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\FireExtinguishersController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\FireExtinguishersController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\FireExtinguishersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:28:38.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\WeatherForecastController.cs",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:27:48.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Controllers\\ClientsController.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Controllers\\ClientsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T20:20:25.822Z"
+              "WhenOpened": "2024-07-18T15:15:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Capacity.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\Capacity.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\FireE\\Capacity.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\Capacity.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\FireE\\Capacity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:06:33.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Iva.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Clients\\Iva.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\Clients\\Iva.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Clients\\Iva.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\Clients\\Iva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:04:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Charge.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\Charge.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\FireE\\Charge.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\Charge.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\FireE\\Charge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:03:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\Brand.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\FireE\\Brand.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\Brand.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\FireE\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:59:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\Users\\User.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Users\\User.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\Users\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:36:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240718135835_Initial.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Migrations\\20240718135835_Initial.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Migrations\\20240718135835_Initial.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Migrations\\20240718135835_Initial.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Migrations\\20240718135835_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:58:36.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:45:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Clients\\Address.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\Clients\\Address.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Clients\\Address.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\Clients\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:17:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Clients\\Client.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\Clients\\Client.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\Clients\\Client.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\Clients\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:33:09.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FireExtinguisher.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\FireExtinguisher.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Models\\FireE\\FireExtinguisher.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Models\\FireE\\FireExtinguisher.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Models\\FireE\\FireExtinguisher.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:03:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MatafuegosNecochea\\Services\\UserService.cs",
+              "ToolTip": "D:\\Repos\\Matafuegos\\server\\MatafuegosNecochea\\MatafuegosNecochea\\Services\\UserService.cs",
+              "RelativeToolTip": "MatafuegosNecochea\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:13:11.492Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatafuegosNecochea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c01cde266fdc4ac704b0c92bad6c901f3fb3b11")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatafuegosNecochea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatafuegosNecochea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
