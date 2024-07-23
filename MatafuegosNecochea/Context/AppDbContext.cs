@@ -1,7 +1,5 @@
 ﻿using MatafuegosNecochea.Models.Clients;
 using Microsoft.EntityFrameworkCore;
-using MatafuegosNecochea.Models.Users;
-using MatafuegosNecochea.Models.FireE;
 
 namespace MatafuegosNecochea.Context
 {

@@ -78,6 +78,7 @@ namespace MatafuegosNecochea.Controllers
         [HttpPost]
         public async Task<ActionResult<User>> PostUser(User user)
         {
+
             _context.User.Add(user);
             await _context.SaveChangesAsync();
 
